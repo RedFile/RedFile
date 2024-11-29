@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="4a5ebbec-aef9-4c9a-ae6c-014c55945092" />
+      <option name="name" value="4a5ebbec-aef9-4c9a-ae6c-014c55945092" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d57034fa-d238-4041-bdf1-bc6b0fcf8e87" />
+      <option name="name" value="d57034fa-d238-4041-bdf1-bc6b0fcf8e87" />
+      <option name="url" value="http://mirrors.cloud.tencent.com/nexus/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="42c3ef52-8a01-48aa-8c68-a9f115aa0e44" />
+      <option name="name" value="42c3ef52-8a01-48aa-8c68-a9f115aa0e44" />
+      <option name="url" value="https://repo.nju.edu.cn/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="8b24fff3-13d3-4d5c-8fd1-78a95731fa0e" />
+      <option name="name" value="8b24fff3-13d3-4d5c-8fd1-78a95731fa0e" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="3ee3d95c-9f24-4a37-9adc-e432dfadb6ff" />
+      <option name="name" value="3ee3d95c-9f24-4a37-9adc-e432dfadb6ff" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+  </component>
+</project>
